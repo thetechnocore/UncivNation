@@ -2,8 +2,8 @@
 	{
 		"name": "Britiannia",
 		"leaderName": "Antoinette",
-		"adjective": ["alien"],
-		"startBias": ["Grass"],
+		"adjective": ["British"],
+		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "We come for the englightment of the world",
@@ -29,10 +29,15 @@
 
 		"outerColor": [16,16,16],
 		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+
+		"favoredReligion": "Christianity",
+		"uniqueName": "Sun Never Sets",
+		
+		"uniques": ["[+20]% Production when constructing [All] wonders [in all cities]","[+25]% Production towards any buildings that already exist in the Capital","Will not be chosen for new games","[-50]% Gold cost of acquiring tiles [in all cities]","[+1 Happiness] for every known Natural Wonder","Can spend Gold to annex or puppet a City-State that has been your Ally for [5] turns","Gain a free [Harbor] [in all coastal cities]","Improves movement speed on roads","May choose [5] additional belief(s) of any type when [founding] a religion","Allied City-States will occasionally gift Great People","[+2 Gold, +2 Production] [in all cities]","[10]% Food is carried over after population increases [in all cities]"],
+		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"],
+		"spyNames": ["James", "Scarlett", "Mycroft", "Charlotte", "Gwendolyn", "Mr. Eks", "Dr. Grey", "Andrew", "Scott", "Anne"]
 	}
 ]
