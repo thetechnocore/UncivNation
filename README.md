@@ -1,5 +1,5 @@
-# Unciv-mod-example
+Unciv Mod
 
-An example mod for Unciv, that adds one new Civilization.
-
-For information on how to build and use mods, please refer to [the setup instructions](https://yairm210.github.io/Unciv/Modders/Making-a-new-Civilization/)
+New nation - a bit hacky - to play at greater difficulties
+Longer game at ancient tech
+Disemark to water for everyone so can play with lots of islands
