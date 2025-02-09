@@ -15,5 +15,5 @@
 		"upgradesTo": "Battleship",
 		"hurryCostModifier": 20,
 		"attackSound": "shipCannonVolley"
-	},
+	}
 ]
